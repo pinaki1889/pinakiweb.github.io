@@ -1,0 +1,132 @@
+*
+{
+margin:0;
+padding:0;
+}
+body
+{
+background-image:url(sunset.jpg);
+background-position:Top;
+background-size:cover;
+text-align:center;
+font-weight:bold;
+color:black;
+font-size:50px;
+margin-top:12%;
+margin-bottom:10%;
+}
+.main
+{
+display:grid;
+border:5px solid #800080;
+flex-direction:column;
+height:100%;
+align-items:flex-middle;
+margin-left:5%;
+margin-right:5%;
+margin-bottom:20%;
+margin-top:10px;
+border-radius:100px;
+background-color:transparent;
+}
+.name
+{
+margin-top:10%;
+
+}
+.reg-form
+{
+text-decoration:underline;
+color:black;
+font-size:75px;
+}
+#end
+{
+margin-bottom:5%;
+border-radius:40px;
+border-width:45px;
+padding:10 10 10 10 ;
+font-size:50px;
+border-color:#ffcf79;
+}
+.ph #phone
+{
+border-width:5px;
+border-style:solid;
+font-size:50px;
+border-radius:40px;
+padding:10 10 10 10;
+text-align:center;
+color:#800080;
+}
+.email #Email
+{
+border-width:5px;
+border-style:solid;
+font-size:50px;
+border-radius:40px;
+padding:10 10 10 10;
+text-align:center;
+color:#800080;
+}
+.row #Rollno
+{
+border-width:5px;
+border-style:solid;
+font-size:50px;
+border-radius:40px;
+padding:10 10 10 10;
+text-align:center;
+color:#800080;
+}
+.college #collegename
+{
+border-width:5px;
+border-style:solid;
+font-size:50px;
+border-radius:40px;
+padding:10 10 10 10;
+text-align:center;
+color:#800080;
+}
+.subject #null
+{
+border-width:5px;
+border-style:solid;
+font-size:50px;
+border-radius:40px;
+padding:10 10 10 10;
+text-align:center;
+color:#800080;
+}
+.name #firstname
+{
+border-width:5px;
+border-style:solid;
+font-size:50px;
+border-radius:40px;
+padding:10 10 10 10;
+text-align:center;
+color:#800080;
+}
+.name #lastname
+{
+border-width:5px;
+border-style:solid;
+font-size:50px;
+border-radius:40px;
+padding:10 10 10 10;
+text-align:center;
+color:#800080;
+}
+.begin #pink
+{
+{
+border-width:5px;
+border-style:solid;
+font-size:50px;
+border-radius:40px;
+padding:10 10 10 10;
+text-align:center;
+color:#800080;
+}
